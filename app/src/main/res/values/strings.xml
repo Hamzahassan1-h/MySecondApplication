@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MySecondApplication</string>
+    <string name="sign_up">Sign_Up</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm_Password</string>
+    <string name="your_name">your_name</string>
+    <string name="enter_email" />
+    <string name="Register">Register</string>
+    <string name="usernames">Username</string>
+    <string name="passwords">Password</string>
+    <string name="email1">email</string>
+    <string name="confirm_passwords">Confirm_password</string>
+    <string name="social_login">Social Login</string>
+    <string name="or">OR</string>
+    <string name="sign_in">Sign_in</string>
+    <string name="don_t_have_an_account_sign_in">Don\'t have an account? Sign in</string>
+    <string name="username1">Username</string>
+    <string name="confirm_password1">Confirm Password</string>
+    <string name="email4">Email</string>
+    <string name="password4">Password</string>
+    <string name="welcome">Welcome</string>
+    <string name="don_t_have_an_account_sign_up">don_t_have_an_account_sign_up</string>
+</resources>
